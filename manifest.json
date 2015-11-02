@@ -1,0 +1,10 @@
+{
+   "description": "Adds Ractive context data to chrome dev tools.",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "64": "ractive.png"
+   },
+   "manifest_version": 2,
+   "name": "Ractive Dataz",
+   "version": "1.1"
+}
